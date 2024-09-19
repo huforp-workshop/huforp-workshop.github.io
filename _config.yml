@@ -1,8 +1,8 @@
-title: Your Title
+title: Foot workshop
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "https://huforp-workshop.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
