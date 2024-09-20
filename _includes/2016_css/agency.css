@@ -305,7 +305,7 @@ fieldset[disabled] .btn-xl.active {
 @media(min-width:768px) {
     .navbar-default-color {
         padding: 25px 0;
-        background-color: transparent;
+        background-color: #222;
     }
     .navbar-default {
         border: 0;
@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/css/2017_style/img/bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -349,8 +349,11 @@ header {
 }
 
 header .intro-text {
-    padding-top: 25vh;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-top: 300px;
+    margin-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 header .intro-text .intro-lead-in {
@@ -372,8 +375,11 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {    
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        margin-top: 300px;
+        margin-bottom: 50px;
+        background-color: rgba(0, 0, 0, 0.5);
     }
 
     header .intro-text .intro-lead-in {
@@ -391,6 +397,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+        color: tomato;
     }
 }
 
@@ -402,7 +409,9 @@ aside.clients h2,
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
+    text-transform: none;
     font-size: 40px;
+    font-style: italic;
 }
 
 section h3.section-subheading {
@@ -414,6 +423,58 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Table Header */
+th {
+    background-color: #2c3e50;
+    color: white;
+    font-weight: bold;
+    padding: 12px;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+}
+
+/* Table Body */
+td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Alternating row colors */
+tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #fdfdfd;
+}
+
+/* Highlight Day Header Rows */
+tbody tr th[colspan="3"] {
+    background-color: #3498db;
+    color: white;
+    font-size: 1.2em;
+    text-align: left;
+    padding: 12px;
+    border: none;
+}
+
+/* Hover effect for rows */
+tbody tr:hover {
+    background-color: #f1f1f1;
+    cursor: default;
+}
+
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;
@@ -423,6 +484,11 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+#program .speaker{
+    font-weight: bold;
+    color: #2980b9;
 }
 
 #speakers .speakers-item {
