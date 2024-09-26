@@ -1,26 +1,81 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: The adaptive and versatile function of the human foot
+  name: Luke Kelly
+  subtitle: Griffith University
+  img: Kelly.png
+  thumbnail: Kelly.png
   alt: Picture of TBD
-  topic: Topic
+  topic: Human foot
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Windlass mechanism function in humans and chimpanzees and the evolution of the bipedal push-off
+  name: Nicholas B. Holowka
+  subtitle: The Pennsylvania State University
+  img: holowka.jpg
+  thumbnail: holowka.jpg
   alt: Picture of TBD
-  topic: Topic
+  topic: Human foot
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: "Multi-scale modeling of ankle joint neuro-mechanics based on discharge timing of spinal motor neurons: towards generalizable neural control of wearable robots"
+  name: Massimo Sartori
+  subtitle: University of Twente
+  img: sartori.jpg
+  thumbnail: sartori.jpg
   alt: Picture of TBD
-  topic: Topic
+  topic: Human foot
   description: More Info
+
+- title: TBD
+  name: Gentiane Venture
+  subtitle: University of Tokyo
+  img: venture.jpg
+  thumbnail: venture.jpg
+  alt: Picture of TBD
+  topic: Robotic foot
+  description: More Info
+
+- title: Increasing the functionality of robotic feet
+  name: Alexandre Badri-Sprowitz
+  subtitle: Max Planck Institute for Intelligent Systems
+  img: sprowitz.jpeg
+  thumbnail: sprowitz.jpeg
+  alt: Picture of TBD
+  topic: Robotic foot
+  description: More Info
+
+- title: Comparing bioinspired and robotic running algorithms for flat foot and toe contact
+  name: Christian Ott
+  subtitle: Technische Universitat Wien
+  img: ott.png
+  thumbnail: ott.png
+  alt: Picture of TBD
+  topic: Robotic foot
+  description: More Info
+
+- title: The metabolic and biomechanical effects of using passive-elastic and powered leg prostheses during walking
+  name: Alena M. Grabowski
+  subtitle: University of Colorado Boulder
+  img: Grabowski.jpg
+  thumbnail: Grabowski.jpg
+  alt: Picture of TBD
+  topic: Prosthetic foot
+  description: More Info
+
+- title: TBD
+  name: Elliott Rouse
+  subtitle: University of Michigan
+  img: rouse.png
+  thumbnail: rouse.png
+  alt: Picture of TBD
+  topic: Prosthetic foot
+  description: More Info
+
+- title: Enabling natural walking with soft robotics technology
+  name: Manuel G. Catalano
+  subtitle: Istituto Italiano di Tecnologia
+  img: catalano.png
+  thumbnail: catalano.png
+  alt: Picture of TBD
+  topic: Prosthetic foot
+  description: More Info
+

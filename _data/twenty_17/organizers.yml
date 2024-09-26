@@ -1,0 +1,34 @@
+- name: Anna Pace
+  subtitle: Istituto Italiano di Tecnologia
+  img: pace.png
+  thumbnail: pace.png
+  alt: Picture of TBD
+  description: More Info
+
+- name: Matteo Crotti
+  subtitle: Research Center "E. Piaggio" and Università di Pisa
+  img: crotti.jpeg
+  thumbnail: crotti.jpeg
+  alt: Picture of TBD
+  description: More Info
+
+- name: Giorgio Grioli
+  subtitle: Research Center "E. Piaggio" and Università di Pisa
+  img: grioli.png
+  thumbnail: grioli.png
+  alt: Picture of TBD
+  description: More Info
+
+- name: Elliott Rouse
+  subtitle: University of Michigan
+  img: rouse.png
+  thumbnail: rouse.png
+  alt: Picture of TBD
+  description: More Info
+
+- name: Manuel G. Catalano
+  subtitle: Istituto Italiano di Tecnologia
+  img: catalano.png
+  thumbnail: catalano.png
+  alt: Picture of TBD
+  description: More Info
