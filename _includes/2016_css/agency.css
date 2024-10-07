@@ -309,6 +309,7 @@ fieldset[disabled] .btn-xl.active {
     }
     .navbar-default {
         border: 0;
+        padding: 20px;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -397,7 +398,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
-        color: rgb(0, 115, 176);
+        color: {{ site.data.template.color.secondary }};
     }
 }
 
