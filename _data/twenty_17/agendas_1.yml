@@ -1,5 +1,79 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 08:45  - 09:00
+  info: "<u>Welcome</u>"
+  speaker: "-"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 09:00  - 09:30
+  info: "<u>Talk:</u><br><b>The adaptive and versatile function of the human foot</b><br>"
+  speaker: "Luke Kelly"
+
+- time: 09:30  - 10:00
+  info: "<u>Talk:</u><br><b>Windlass mechanism function in humans and chimpanzees and the evolution of the bipedal push-off</b><br>"
+  speaker: "Nicholas B. Holowka"
+
+- time: 10:00  - 10:30
+  info: "<u>Talk:</u><br><b>Multi-scale modeling of ankle joint neuro-mechanics based on discharge timing of spinal motor neurons: towards generalizable neural control of wearable robots</b><br>"
+  speaker: "Massimo Sartori"
+
+- time: 10:30 - 11:00
+  info: "<u>Coffee Break</u>"
+  speaker: "-"
+
+- time: 11:00 - 11:30
+  info: "<u>Talk:</u><br><b>Robot locomotion with compliant feet</b><br>"
+  speaker: "Gentiane Venture"
+
+- time: 11:30 - 12:00
+  info: "<u>Talk:</u><br><b>Increasing the functionality of robotic feet</b><br>"
+  speaker: "Alexandre Badri-Sprowitz"
+
+- time: 12:00 - 12:30
+  info: "<u>Talk:</u><br><b>Comparing bioinspired and robotic running algorithms for flat foot and toe contact</b><br>"
+  speaker: "Christian Ott"
+
+- time: 12:30 - 13:00
+  info: "<u>Poster Pitch</u>"
+  speaker: "Accepted Authors"
+
+- time: 13:00 - 14:00
+  info: "<u>Lunch Break</u>"
+  speaker: "-"
+
+- time: 14:00 - 15:00
+  info: "<u>Poster Session</u>"
+  speaker: "Accepted Authors"
+
+- time: 15:00 - 15:30
+  info: "<u>Talk:</u><br><b>The metabolic and biomechanical effects of using passive-elastic and powered leg prostheses during walking</b><br>"
+  speaker: "Alena M. Grabowski"
+
+- time: 15:30 - 16:00
+  info: "<u>Coffee Break</u>"
+  speaker: "-"
+
+- time: 16:00 - 16:30
+  info: "<u>Talk:</u><br><b>The Open-Source Leg project</b><br>"
+  speaker: "Elliot Rouse"
+
+- time: 16:30 - 17:00
+  info: "<u>Talk:</u><br><b>Enabling natural walking with soft robotics technologies</b><br>"
+  speaker: "Manuel G. Catalano"
+
+- time: 17:00 - 17:30
+  info: "<u>Panel Discussion</u>"
+  speaker: "Speakers"
+
+- time: 17:30 - 17:45
+  info: "<u>Best Poster Award</u>"
+  speaker: "-"
+
+- time: 17:45 - 18:00
+  info: "<u>Final Remarks</u>"
+  speaker: "Organizers and Speakers"
+
+- time: "-"
+  info: "<u>-</u>"
+  speaker: "-"
+
+- time: 20:00 - 22:00
+  info: "<u>Social Dinner</u>"
+  speaker: "-"

@@ -6,6 +6,7 @@
   alt: Picture of TBD
   topic: Human foot
   description: More Info
+  website: https://experts.griffith.edu.au/21209-luke-kelly
 
 - title: Windlass mechanism function in humans and chimpanzees and the evolution of the bipedal push-off
   name: Nicholas B. Holowka
@@ -15,6 +16,7 @@
   alt: Picture of TBD
   topic: Human foot
   description: More Info
+  website: https://anth.la.psu.edu/people/nicholas-holowka/
 
 - title: "Multi-scale modeling of ankle joint neuro-mechanics based on discharge timing of spinal motor neurons: towards generalizable neural control of wearable robots"
   name: Massimo Sartori
@@ -24,8 +26,9 @@
   alt: Picture of TBD
   topic: Human foot
   description: More Info
+  website: https://people.utwente.nl/m.sartori
 
-- title: Robot locomotion with compliant feet
+- title: Robot locomotion with compliant feet
   name: Gentiane Venture
   subtitle: University of Tokyo
   img: venture.jpg
@@ -33,6 +36,7 @@
   alt: Picture of TBD
   topic: Robotic foot
   description: More Info
+  website: https://www2.mech.t.u-tokyo.ac.jp/research/gentiane_venture/?lang=en
 
 - title: Increasing the functionality of robotic feet
   name: Alexandre Badri-Sprowitz
@@ -42,15 +46,17 @@
   alt: Picture of TBD
   topic: Robotic foot
   description: More Info
+  website: https://is.mpg.de/~sprowitz
 
 - title: Comparing bioinspired and robotic running algorithms for flat foot and toe contact
   name: Christian Ott
   subtitle: Technische Universitat Wien
-  img: Ott.jpg
-  thumbnail: Ott.jpg
+  img: ott.png
+  thumbnail: ott.png
   alt: Picture of TBD
   topic: Robotic foot
   description: More Info
+  website: https://www.acin.tuwien.ac.at/staff/cott/
 
 - title: The metabolic and biomechanical effects of using passive-elastic and powered leg prostheses during walking
   name: Alena M. Grabowski
@@ -60,6 +66,7 @@
   alt: Picture of TBD
   topic: Prosthetic foot
   description: More Info
+  website: https://www.colorado.edu/iphy/people/faculty/alena-m-grabowski
 
 - title: The Open-Source Leg project
   name: Elliott Rouse
@@ -69,6 +76,7 @@
   alt: Picture of TBD
   topic: Prosthetic foot
   description: More Info
+  website: https://me.engin.umich.edu/people/faculty/elliott-rouse/
 
 - title: Enabling natural walking with soft robotics technology
   name: Manuel G. Catalano
@@ -78,4 +86,5 @@
   alt: Picture of TBD
   topic: Prosthetic foot
   description: More Info
+  website: https://www.iit.it/people-details/-/people/manuel-catalano
 
