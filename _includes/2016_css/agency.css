@@ -405,6 +405,36 @@ p.intro-text {
     text-align: justify;
 }
 
+/* Style for the unordered list */
+.styled-list {
+    list-style-type: circle; /* Use circles for bullets */
+    padding-left: 20px; /* Indent the list */
+    margin-bottom: 20px; /* Add space below the list */
+}
+
+.styled-list li {
+    margin-bottom: 5px; /* Space between items */
+    padding: 10px 15px; /* Padding inside each item */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1.1em; /* Slightly larger font */
+}
+
+
+/* Style for the unordered list */
+.paper-list {
+    list-style-type: circle; /* Use circles for bullets */
+    padding-left: 20px; /* Indent the list */
+    margin-bottom: 20px; /* Add space below the list */
+}
+
+.paper-list li {
+    margin-bottom: 15px; /* Space between items */
+    padding: 15px 25px; /* Padding inside each item */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 1.5em; /* Slightly larger font */
+}
+
+
 section {
     padding: 100px 0;
 }
