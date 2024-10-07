@@ -1,0 +1,50 @@
+---
+layout: 2017_default
+permalink: /papers
+title: Accepted papers
+---
+
+<!DOCTYPE html>
+<html>
+
+  <body id="papers" class="index">
+    
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">Workshop <br></div>
+                <div class="intro-lead-in">The human foot and its role in walking: <br>
+                    inspiration and new perspectives for Robotics and Prosthetics<br></div>
+                <div class="intro-lead-in"> <span style="color:#0073b3"><i class="fa fa-calendar"></i> </span>May 2025 </div>
+                <div class="intro-lead-in"> <span style="color:#0073b3"><i class="fa fa-map-marker"></i></span>
+                     ICRA 2025 @ Georgia World Congress Center, Atlanta, Georgia</div>
+            </div>
+        </div>
+    </header>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h1 class="section-heading">Papers</h1>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>
+            
+            <div class="row">
+                <ul class=".paper-list">
+                    {% for post in site.data.twenty_17.papers %}
+                    <li>
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted intro-text">{{ post.authors }}</p>
+                        <a href="_data/pdf/{{ post.file }}" target="_blank" class="btn btn-xl">PDF</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+        </div>
+    </section>
+
+  </body>
+</html>
